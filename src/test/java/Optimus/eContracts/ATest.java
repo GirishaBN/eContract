@@ -12,5 +12,6 @@ public class ATest
     public void test1(){
     	
     	System.out.println("ClassA_test1");
+    	System.out.println("Text changes in A Test");
     }
 }
