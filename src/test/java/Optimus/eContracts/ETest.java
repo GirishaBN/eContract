@@ -7,5 +7,6 @@ public class ETest {
 public void test1()
 {
 	System.out.println("ClassE-Test1");
+System.out.println("ClassE-Test2");
 }
 }
